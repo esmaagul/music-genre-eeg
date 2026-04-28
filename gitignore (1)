@@ -1,6 +1,0 @@
-data/
-outputs/
-__pycache__/
-.ipynb_checkpoints/
-*.fdt
-*.set
